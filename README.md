@@ -105,3 +105,8 @@ MIT License
 <div align="center">
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
+
+## 🌐 دیپلوی
+
+- **URL:** [https://vercel.com/ramin-edjlal-s-projects/gltools/54MUvKPm6Dvu4hPdmL3JqY3tkRvP](https://vercel.com/ramin-edjlal-s-projects/gltools/54MUvKPm6Dvu4hPdmL3JqY3tkRvP)
+- **وضعیت:** ✅ فعال
