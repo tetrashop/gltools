@@ -111,3 +111,8 @@ MIT License
 - **URL:** [https://vercel.com/ramin-edjlal-s-projects/gltools/54MUvKPm6Dvu4hPdmL3JqY3tkRvP](https://vercel.com/ramin-edjlal-s-projects/gltools/54MUvKPm6Dvu4hPdmL3JqY3tkRvP)
 - **وضعیت:** ✅ فعال
 <!-- Trigger deploy: Mon Aug 17 01:48:29 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://gltools.vercel.app](https://gltools.vercel.app)
+- **وضعیت:** ✅ فعال
